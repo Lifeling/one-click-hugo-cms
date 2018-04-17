@@ -1,13 +1,14 @@
 ---
-title: "AAC Engineering"
+title: "home"
 subtitle: "On a mission to achieve the possible."
+logo: /img/aac_logo.svg
 image: /img/home-jumbotron.jpg
 blurb:
     heading: Why Choose AAC Engineering?
     text: "Here are a few reasons to choose us for your next project"
 intro:
     heading: "Services"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "We provide all sorts of services."
 services:
     - image: img/illustrations-coffee.svg
       heading: "One Heading"
